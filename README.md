@@ -20,3 +20,5 @@ Key Commands
 - npm run dev: Starts the Express server and Vite development middleware.
 - npm run build: Creates a production-ready build in the dist folder.
 - npm run lint: Checks for TypeScript errors.
+
+<img width="1508" height="827" alt="image" src="https://github.com/user-attachments/assets/aa574228-f6fc-4933-87d7-513614246cdd" />
